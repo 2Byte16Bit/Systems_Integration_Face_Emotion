@@ -15,6 +15,7 @@ oder:
 
 Schritt 2 ein Verzeichniss erstellen:
   mkdir -p ~/catkin_ws/src
-  rein gehen: 
+  rein gehen:
   cd ~/catkin_ws/
   git anlegen und clonen
+  catkin_make
