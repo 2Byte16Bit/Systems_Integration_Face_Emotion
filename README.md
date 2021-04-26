@@ -19,3 +19,7 @@ Schritt 2 ein Verzeichniss erstellen:
   cd ~/catkin_ws/
   git anlegen und clonen
   catkin_make
+
+
+Beachtung für weitere Programmierung
+http://wiki.ros.org/ROS/Tutorials
